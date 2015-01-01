@@ -1,0 +1,91 @@
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.pdb
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplication.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.Tracing.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplication.pdb
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\nunit.framework.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\EntityFramework.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.Tracing.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\obj\Debug\ChatApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\obj\Debug\ChatApplicationTest.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\obj\Debug\ChatApplicationTest.pdb
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll.config
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\Autofac.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\_bin_deployableAssemblies\x86\sqlceca40.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\Sharp.Data.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\Sharp.Migrations.dll
+C:\Users\nipun\Desktop\Nipun\Nipun\ChatApplication\ChatApplicationTest\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\obj\Debug\ChatApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\_bin_deployableAssemblies\x86\sqlceca40.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll.config
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.pdb
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplication.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Sharp.Data.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Sharp.Migrations.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Owin.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.Tracing.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\WebMatrix.WebData.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Razor.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\WebMatrix.Data.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplication.pdb
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.Tracing.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\WebMatrix.WebData.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Razor.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\WebMatrix.Data.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\obj\Debug\ChatApplicationTest.dll
+C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\obj\Debug\ChatApplicationTest.pdb

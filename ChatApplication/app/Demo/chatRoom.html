@@ -1,0 +1,47 @@
+﻿
+<div align="center">
+    <form name="form" novalidate>
+        <style>#grad {
+            background: -webkit-linear-gradient(#FAFAFA, #F2F2F2); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#FAFAFA, #F2F2F2); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FAFAFA, #F2F2F2); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#FAFAFA, #F2F2F2); /* Standard syntax (must be last) */
+        }</style>
+<div id="grad" style="height:410px;width:500px; border:1px solid #cccccc;border-radius:7px;">
+    <div style="height:34px;border:1px solid #cccccc;background-color:lightgray;">
+        {{text}}
+    </div>
+    <div align="left" style="float:left;width:327px;height:316px;border:1px solid #cccccc">
+       <!-- <ul> <li ng-repeat ="m in messages" style="width: 268px; margin-left: 0px">
+
+            {{m.message}}<br />
+            </li></ul>-->
+
+  <div ng-repeat="m in messages">
+  <pre>{{m}}</pre>
+</div>
+    </div>
+    <div style="float:left;width:171px; height: 316px;border:1px solid #cccccc"><ul><li ng-repeat="user in cons">{{user.UserName}}</li></ul></div>
+    
+    <div style="clear:both"></div>
+    <div style="height: 15px">
+ </div>
+    <div style="float:left;width:397px;height:30px;border:1px solid #cccccc">
+        <input type="text" id="message" name="message" placeholder="Enter Message" ng-model="message" required style="width: 394px" /></div>
+    <div style="float:left;width:100px; height: 31px;">
+        <style>  #sendmesssage{color:white;
+               background-color:#3FB04A;
+       }
+#sendmesssage:visited {color:green;}
+#sendmesssage:hover{background-color:#3C9B3B;}
+   </style>
+        <button id="sendmesssage" value="Send" ng-click="send(message)" ng-disabled="form.$invalid" style="width: 102px; height: 30px" >send</button></div>
+</div>
+        
+        </form>
+</div>
+    
+
+
+   
+   

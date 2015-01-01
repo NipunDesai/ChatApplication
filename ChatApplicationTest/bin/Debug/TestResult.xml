@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-03-11" time="16:13:12">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="VISHVASH" user="Nipun" user-domain="PROMACT" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll" executed="True" result="Success" success="True" time="0.117" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ChatApplicationTest" executed="True" result="Success" success="True" time="0.116" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UserRepositoryTest" executed="True" result="Success" success="True" time="0.116" asserts="0">
+            <results>
+              <test-case name="ChatApplicationTest.UserRepositoryTest.CreateUserSuccessfullyTest" executed="True" result="Success" success="True" time="0.023" asserts="1" />
+              <test-case name="ChatApplicationTest.UserRepositoryTest.GetAllUser" executed="True" result="Success" success="True" time="0.039" asserts="1" />
+              <test-case name="ChatApplicationTest.UserRepositoryTest.RemoveUserTest" executed="True" result="Success" success="True" time="0.026" asserts="1" />
+              <test-case name="ChatApplicationTest.UserRepositoryTest.UpdateUserDetailTest" executed="True" result="Success" success="True" time="0.021" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

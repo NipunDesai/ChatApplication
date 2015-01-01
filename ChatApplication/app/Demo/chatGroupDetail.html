@@ -1,0 +1,23 @@
+﻿<div align="center" ng-controller="chatGroupDetailController">
+    <h1>{{a}}</h1>
+   
+        <div align="center">
+            <div> <label>GroupName</label></div>
+           
+            <div>
+                <input type="text"  ng-model="con.GroupName"/>
+            </div>
+        </div>
+    <div style="clear:both"></div>
+       <br />
+        <div>
+           
+            <button ng-click="cancel()">Cancel</button>
+             
+                <button ng-click="updatechatGroup()" >Update ChatGroup</button>
+        
+                <button ng-click="createNewGroup()">Create New ChatGroup</button>
+            
+        </div>
+ 
+</div>

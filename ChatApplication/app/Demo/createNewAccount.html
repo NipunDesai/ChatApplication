@@ -1,0 +1,76 @@
+﻿
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+      
+       #button{color:white;
+               background-color:#3FB04A;
+       }
+button:visited {color:green;}
+#button:hover{background-color:#3C9B3B;}
+button:active  {color:yellow;}
+        #grad {
+            background: -webkit-linear-gradient(#FAFAFA, #F2F2F2); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#FAFAFA, #F2F2F2); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FAFAFA, #F2F2F2); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#FAFAFA, #F2F2F2); /* Standard syntax (must be last) */
+        }
+         #user { background-image: url(~/Content/images/user.png); background-position: left center; background-repeat: no-repeat; }                                                                           
+    #psw { background-image: url(~/Content/images/bullet_key.png); background-position: left center; background-repeat: no-repeat; }
+      
+          </style>
+</head>
+<body>
+     <form name="Account">
+    
+    <div align="center" >
+<div id="grad" style="height:285px; width:310px; border:1px solid #cccccc;border-radius:7px;padding:45px 0px 0px 0px;">
+     <div style ="height:200px;width:275px;border:1px solid #cccccc;padding-top:20px;border-radius:7px;">
+     <div style="float:left;width:100px;">
+           UserName
+        </div>
+        <div style="float:left;">
+           <input type="text" aria-required ="true" ng-model="newcon.UserName" ng-pattern="uname" name="UserName" placeholder="UserName" required/>
+        </div>
+    <div style="clear:both"></div>
+        <div style="float:left;width:100px;">
+            Password
+        </div>
+        <div style="float:left">
+            <input type="password" ng-model="newcon.Password" name="Password" placeholder="Password" required/>
+        </div>
+        <div style="clear:both"></div>
+        <div style="float:left;width:100px;">
+           Email
+        </div>
+        <div style="float:left">
+          <input type="text" ng-model="newcon.Email" name="EmailId" placeholder="Email" ng-pattern="email"  required/>
+        </div>
+     <div style="clear:both"></div>
+         <div style="float:left;width:100px;">
+              Phoneno
+        </div>
+    <div style="float:left">
+         <input type="text" ng-model="newcon.Phoneno" ng-pattern='/^[0-9]{10}$/' name="Phoneno" placeholder="Phone Number" required/>
+        </div>
+    <div style="clear:both"></div>
+        <div style ="margin-top:12px;margin-right:35px; width: 275px;">
+            <input type="button" id="button" value="Save" ng-click="Save()" ng-disabled="Account.$invalid" style="width:208px; height:35px;border-radius:7px;"/>
+        </div>
+    </div>
+</div>
+       
+</div>
+        </form>
+       <div align="center">
+            <ul><li ng-repeat="con in cons">
+                {{con.UserName}}<br />
+                {{con.Password}}<br />
+                {{con.Email}}<br />
+                {{con.Phoneno}}<br /></li>
+            </ul>
+
+        </div>
+</body>
+</html>

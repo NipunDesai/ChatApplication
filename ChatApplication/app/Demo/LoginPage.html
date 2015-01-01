@@ -1,0 +1,61 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+      
+       #button{color:white;
+               background-color:#3FB04A;
+       }
+button:visited {color:green;}
+#button:hover{background-color:#3C9B3B;}
+button:active  {color:yellow;}
+        #grad {
+            background: -webkit-linear-gradient(#FAFAFA, #F2F2F2); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#FAFAFA, #F2F2F2); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FAFAFA, #F2F2F2); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#FAFAFA, #F2F2F2); /* Standard syntax (must be last) */
+        }
+         #user { background-image: url(/Images/user.png); background-position: left center; background-repeat: no-repeat; }                                                                           
+    #psw { background-image: url(/Images/bullet_key.png); background-position: left center; background-repeat: no-repeat; }
+      
+          </style>
+</head>
+<body>   
+   <div align="center" >
+        <div style="width:280px;height:280px; background-color:#f9f9f9; margin:40px auto auto;padding:40px 0px 0px 0px; border-radius:7px;border: 1px solid #CCCCCC;">         
+        <div style="width:234px;height:200px;margin:0px;border: 1px solid #CCCCCC; background-color:#ffffff;border-radius:7px;">
+            <div>
+               <div align="left" style="padding-left:10px;font:bold;font-size:18px;font-style:normal;font-weight:bold;">Sign In</div> 
+              <div style="padding-top:10px;padding-left:8px;">
+                 <div style="float:left;border-radius:7px 7px 0px 0px;border: 1px solid #CCCCCC;">
+                    <div style="float:left;background-image:url(/Images/user.png); background-position: 6px center;background-repeat:no-repeat;height:35px;width:30px;"></div> 
+                   <div style="float:left"><input type ="text" aria-required="true" name="UserName" placeholder="User Name" ng-model="newcon.UserName" required="UserName is Requried" style="width:185px;height:35px;border:0px;" />
+                       </div>
+                </div>
+                  
+                <div style="clear:both"></div>
+                
+                <div style="float:left;border-radius:0px 0px 7px 7px;border: 1px solid #CCCCCC;">
+                    <div style="float:left;background-image:url(/Images/bullet_key.png); background-position: 6px center;background-repeat:no-repeat;height:35px;width:30px;"></div>
+                 <div style="float:left"><input type="password" name="Password"  placeholder="Password" ng-model="newcon.Password" style="width:185px;height:35px;border:0px;" required="Password is Requried" aria-required="true"/>
+                     </div>
+                </div>
+                  </div>
+                    </div>
+                <div style="clear:both"></div>
+                <div align="left" style="padding-top:10px;padding-left:15px;">
+                    <div style="float:left;"><input type="checkbox" value="Remembermr" style="border-radius:7px"/></div>
+                    <div style ="font-size:12px;font-weight:normal;float:left;padding-left:7px;">Keep me logged in</div>
+                </div>
+            <div style="clear:both"></div>
+                <div style="padding-top:10px;">
+                    <input type="submit" id="button" ng-click="Save(newcon)" value="Login" style="width:210px;height:35px;border-radius:7px;"/>
+                </div>
+            </div>
+        </div>
+
+     
+   </div>
+       
+</body>
+</html>

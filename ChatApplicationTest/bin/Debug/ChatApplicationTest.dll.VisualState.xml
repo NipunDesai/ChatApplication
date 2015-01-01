@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1021]C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll</TopNode>
+  <SelectedNode>[0-1021]C:\Users\nipun\Documents\Visual Studio 2012\Projects\ChatApplication\ChatApplicationTest\bin\Debug\ChatApplicationTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1022]ChatApplicationTest" Expanded="true" />
+    <Node UniqueName="[0-1000]ChatApplicationTest.ChatRepositoryTest" Expanded="true" />
+    <Node UniqueName="[0-1014]ChatApplicationTest.UserRepositoryTest" Expanded="true" />
+  </Nodes>
+</VisualState>

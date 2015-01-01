@@ -1,0 +1,31 @@
+﻿<head>
+    <style type="text/css">
+        .auto-style1 {
+            width: 45px;
+        }
+        .auto-style2 {
+            width: 59px;
+        }
+        .auto-style3 {
+        }
+    </style>
+</head>
+<div align="center"> 
+       <table>
+        <thead>
+        <tr>
+            <th style="min-width: 80px;" class="auto-style3">Group Name</th>
+          
+            <th class="auto-style2"> </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="con in getgroupname">
+            <td>{{con.GroupName}}</td>
+          
+            <td class="auto-style1">&nbsp; <button ng-click="editchatgroup(con.Id)">Edit</button></td>
+            <td class="auto-style2"><button ng-click="deletechatgroup(con.Id)">Delete</button></td>
+        </tr>
+        </tbody>
+    </table>
+</div>

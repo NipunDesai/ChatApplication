@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <title></title>
+       <link href="Content/animations.css" rel="stylesheet" />
+     <link href="Content/ie10mobile.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="Content/toastr.css" rel="stylesheet" />
+    <link href="Content/customtheme.css" rel="stylesheet"/>
+    <link href="Content/styles.css" rel="stylesheet" />
+
+
+    <script src="Scripts/jquery-2.1.0.js"></script>    
+    <script src="Scripts/angular.js"></script>         
+    
+    <script src="Scripts/angular-resource.js"></script> 
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular-animate.js"></script>
+     <script src="Scripts/angular-signalr-hub.min.js"></script>
+    <script src="Scripts/jquery.signalR-2.0.3.js"></script>
+
+     <script src="app/app.js"></script>
+  
+     <!--service-->
+     <script src="app/services/mainData.js"></script>
+     <script src="app/services/chatRoomData.js"></script>
+     <script src="app/services/createNewGroupData.js"></script>
+   <script src="app/services/chatDetailData.js"></script>
+    <script src="app/services/chatGroupDetailData.js"></script>
+  
+        
+  
+
+    <!--Controller-->
+    <script src="app/Controllers/mainController.js"></script>
+    <script src="app/Controllers/chatRoomController.js"></script> 
+    <script src="app/Controllers/createNewGroupController.js"></script>  
+    <script src="app/Controllers/chatDetailController.js"></script>
+    <script src="app/Controllers/chatGroupDetailController.js"></script>
+  
+
+
+
+
+</head>
+    <body>
+
+       
+      <nav class="navbar navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">
+            <p>ChatApplication</p></a>
+      </div>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#chatRoom">ChatRoom</a></li>
+            <li><a href="#createNewGroup">Create Group</a></li>
+            <li><a href="#chatDetails">ChatDetail</a></li>
+            <!--<li><a href="#chat">Chat</a></li>-->
+            <li><a href="http://localhost:9198/Account/Login">LogOff</a></li>
+        </ul>
+      
+    </div>
+  </nav>
+       
+        <div class="view-animate-container">
+      <div ng-view class="view-animate"></div>
+    </div>
+</body>
+</html>

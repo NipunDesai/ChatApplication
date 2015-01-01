@@ -1,0 +1,36 @@
+﻿@{
+    Layout =null ;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+   @if (Session["FullUserName"] != null)
+{
+    <text>
+        Welcome @Session["FullUserName"].ToString()
+    </text>
+}
+    <div>
+        @Html.ActionLink("SignOut","Index","Home")   </div>
+   @* <div id="userSettings">
+        @Html.Partial("_LogOnPartial")
+    </div>*@
+    
+    <h2> User HomePage</h2>
+     <ng-view>
+       
+          @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/Scripts/angular.js")
+    @Scripts.Render("~/app/app.js")
+    </ng-view>
+   
+    
+    
+</body>
+</html>

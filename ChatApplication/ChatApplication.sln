@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApplication", "ChatApplication\ChatApplication.csproj", "{7EEE9100-50DC-4490-ADC5-D5B341D34D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApplicationTest", "ChatApplicationTest\ChatApplicationTest.csproj", "{CACCAE9B-2EC0-4B00-9ED2-50811D0F9536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EEE9100-50DC-4490-ADC5-D5B341D34D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEE9100-50DC-4490-ADC5-D5B341D34D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEE9100-50DC-4490-ADC5-D5B341D34D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEE9100-50DC-4490-ADC5-D5B341D34D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACCAE9B-2EC0-4B00-9ED2-50811D0F9536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACCAE9B-2EC0-4B00-9ED2-50811D0F9536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACCAE9B-2EC0-4B00-9ED2-50811D0F9536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACCAE9B-2EC0-4B00-9ED2-50811D0F9536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
